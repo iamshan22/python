@@ -32,7 +32,7 @@ l1 = [10,20,30,40,50]
 print("see it was deleted", l1.pop())
 print(l1)
 
-#pop(index)
+#pop(index) 
 l2=[10,20,30,40,50]
 l2.pop(2)
 print(l2)
