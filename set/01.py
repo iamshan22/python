@@ -33,7 +33,17 @@
 #s1.discard(40)
 #print(s1)
 
+# update
+s1= {10,20,30,40,50}
+s2= {400,50}
+s1.update(s2)
+print(s1)
 
+# pop
+s1= {10,20,30,40,50}
+s2= {400,50}
+s1.pop()
+print(s1)
 
 
 
